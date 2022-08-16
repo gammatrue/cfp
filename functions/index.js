@@ -1,4 +1,4 @@
-const doh = '1.1.1.1'
+const doh = 'https://dns.adguard.com/dns-query'
 const dohjson = 'https://security.cloudflare-dns.com/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
